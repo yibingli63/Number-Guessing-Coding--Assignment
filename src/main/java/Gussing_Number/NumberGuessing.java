@@ -25,7 +25,7 @@ public class NumberGuessing {
 			}
 		//	System.out.println(count + ": " + upperBoundary + " -- " + lowerBoundary);
 		} while (guess != secretNumber);
-		//System.out.println("Your number = " + secretNumber);
+		System.out.println("Your number = " + secretNumber);
 		System.out.println("yes"); 
 		return count;
 	}
