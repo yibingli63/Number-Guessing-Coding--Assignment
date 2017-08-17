@@ -17,6 +17,7 @@ public class NumberGuessingTests extends TestCase{
        	sn = 56;//Suppose secrectNumber is 56.
      	ct = 4; //The program will guess 4 times to arrive at the answer.     
      	System.out.println("Initialize variables");
+	System.out.println("Test GitHub");
     }  
 
  	protected void tearDown() throws Exception{
